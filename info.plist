@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Shodans HTML bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>0E419DE0-F5F8-43FF-90E2-D46295A7E6CC</string>
+		<string>48644CAD-89A4-47C6-9188-8AA96446C38E</string>
+	</array>
+	<key>uuid</key>
+	<string>B814EF53-B043-44BD-BA07-D47A2DD95546</string>
+</dict>
+</plist>

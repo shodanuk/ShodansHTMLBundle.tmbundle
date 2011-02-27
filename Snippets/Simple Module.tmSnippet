@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="module"&gt;
+  &lt;div class="module-fg"&gt;$0&lt;/div&gt;
+  &lt;div class="module-bg"&gt;
+    &lt;div class="module-bg-hd"&gt;&lt;/div&gt;
+    &lt;div class="module-bg-bd"&gt;&lt;/div&gt;
+    &lt;div class="module-bg-ft"&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Simple Module</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>module</string>
+	<key>uuid</key>
+	<string>0E419DE0-F5F8-43FF-90E2-D46295A7E6CC</string>
+</dict>
+</plist>
