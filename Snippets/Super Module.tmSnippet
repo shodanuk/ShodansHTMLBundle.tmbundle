@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* 
+Super Module pattern by Mike Rumble.
+http://rumble.github.com/examples/overlay.html
+*/
+&lt;div class="module"&gt;
+  &lt;div class="module-fg"&gt;$0&lt;/div&gt;
+  &lt;div class="module-bg"&gt;
+    &lt;div class="module-hd"&gt;
+      &lt;div class="module-hd-r"&gt;&lt;/div&gt;
+      &lt;div class="module-hd-l"&gt;&lt;/div&gt;
+      &lt;div class="module-hd-c"&gt;
+        &lt;div&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="module-bd"&gt;
+      &lt;div class="module-bd-r"&gt;&lt;/div&gt;
+      &lt;div class="module-bd-l"&gt;&lt;/div&gt;
+      &lt;div class="module-bd-c"&gt;
+        &lt;div&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="module-ft"&gt;
+      &lt;div class="module-ft-r"&gt;&lt;/div&gt;
+      &lt;div class="module-ft-l"&gt;&lt;/div&gt;
+      &lt;div class="module-ft-c"&gt;
+        &lt;div&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Super Module</string>
+	<key>scope</key>
+	<string>text.html, source.php.html</string>
+	<key>tabTrigger</key>
+	<string>sup:mod</string>
+	<key>uuid</key>
+	<string>AB625EDD-64C1-468C-8C2F-EAA605A12E43</string>
+</dict>
+</plist>

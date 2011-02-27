@@ -14,7 +14,7 @@
 	<key>name</key>
 	<string>Simple Module</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html, source.php.html</string>
 	<key>tabTrigger</key>
 	<string>module</string>
 	<key>uuid</key>
